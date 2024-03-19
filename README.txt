@@ -4863,4 +4863,8 @@ Questão 1208
 Com qual destes governantes a Rainha Tamar da Geórgia formou um pacto de não agressão?
 R: Saladino
 
+Questão 1209
+Em RoK, qual dos seguintes armamentos pode ser usado com formação em arco?
+R: Emblema do Norte
+
 .
