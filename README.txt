@@ -4867,4 +4867,7 @@ Questão 1209
 Em RoK, qual dos seguintes armamentos pode ser usado com formação em arco?
 R: Emblema do Norte
 
+Questão 1210
+Quem escreveu "A Eneida", o primeiro poema épico da literatura ocidental?
+R: Virgílio
 .
