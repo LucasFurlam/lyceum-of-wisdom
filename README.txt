@@ -4901,6 +4901,6 @@ R: Ulfilas
 
 Questão 1218
 Qual destas NÃO é uma das habilidades de Cao Cao?
-R: Ulfilas
+R: Batalha da tristeza
 
 .
