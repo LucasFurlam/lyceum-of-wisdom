@@ -4870,4 +4870,37 @@ R: Emblema do Norte
 Questão 1210
 Quem escreveu "A Eneida", o primeiro poema épico da literatura ocidental?
 R: Virgílio
+
+Questão 1211
+Qual é a relação entre diamantes e grafite?
+R: Ambos são alótropos de carbono
+
+Questão 1212
+Na introdução da história de Cao Cao no RoK, ele diz ao governador que não se importa em ser tratado por outro nome. Qual é esse nome?
+R: Mengde
+
+Questão 1213
+Quando foi oficialmente criada a União de Nações Sul-Americanas (UNASUL)?
+R: 2008
+
+Questão 1214
+Em RoK, qual das opções a seguir NÃO aumenta a Saúde de suas unidades de infantaria?
+R: Nível do Posto Comercial
+
+Questão 1215
+Na mitologia grega, qual era o nome do rei que transformava em ouro tudo o que tocava?
+R: Midas
+
+Questão 1216
+A bandeira de qual desses países contém o maior número de cores?
+R: República da Coreia
+
+Questão 1217
+O alfabeto gótico foi desenvolvido por qual bispo?
+R: Ulfilas
+
+Questão 1218
+Qual destas NÃO é uma das habilidades de Cao Cao?
+R: Ulfilas
+
 .
