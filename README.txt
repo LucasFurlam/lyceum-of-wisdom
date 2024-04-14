@@ -4903,4 +4903,65 @@ Questão 1218
 Qual destas NÃO é uma das habilidades de Cao Cao?
 R: Batalha da tristeza
 
+Questão 1219
+Qual dos seguintes países está localicado no Hemisfério Norte?
+R: Reino Unido
+
+Questão 1220
+Qual destes é um nome alternativo para o romance Sonho da Câmara Vermelha?
+R: A História da Pedra
+
+Questão 1221
+Qual é a espécie viva de pinguim mais alta e pesada?
+R: Pinguim Imperial
+
+Questão 1222
+A teoria da relatividade encontra dificuldades quando aplicada a:
+R: Particulas subatômicas
+
+Questão 1223
+Qual das seguintes construções NÃO é uma obra ddo arquiteto Antoni Gaudi?
+R: Parque Guell
+
+Questão 1224
+Raphael é melhor conhecido pela sua criação de qual dos seguintes?
+R: Escola de Atenas
+
+Questão 1225
+A que ordem taxonômica pertencem os pardais arbóreos da Eurásia?
+R: Passeriformes
+
+Questão 1226
+Em aerodinâmica, como é chamado quando o fluxo de ar ao redor de um objeto está próximo
+ou ligeiramente acima da velocidade do som (em torno de Mach 0,8 - 1,2)?
+R: Fluxo transônico
+
+Questão 1227
+Quem foi o primeiro sultão da Dinastia Ayyubid?
+R: Saladin
+
+Questão 1228
+Qual destes ingredientes é derivado principalmente de um mineral?
+R: Sal
+
+Questão 1229
+A farinha de trigo integral é feita com qual dos seguintes grãos?
+R: Trigo
+
+Questão 1230
+Quem sucedeu Pedro I como imperador da Rússia?
+R: Catherine I
+
+Questão 1231
+De quantas alianças um governador pode fazer parte ao mesmo tempo?
+R: 1
+
+Questão 1232
+Em RoK, qual dos seguintes armamentos pode ser usado coma formação em arco?
+R: Emblema do Norte
+
+Questão 1233
+Em RoK, qual dos seguintes armamentos pode ser usado coma formação em arco?
+R: Emblema do Norte
+
 .
